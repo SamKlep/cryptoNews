@@ -25,8 +25,7 @@ SECRET_KEY = 'wuvvbrb6s%+m#_5_tz3n8rduje(9&gdho4d)z_*ape(_0+i2!d'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [‘0.0.0.0’, ‘localhost’, 'https://evening-meadow-70637.herokuapp.com/']
-
+ALLOWED_HOSTS = [‘0.0.0.0’, ‘localhost’, ‘evening-meadow-70637.herokuapp.com/’]
 
 # Application definition
 
